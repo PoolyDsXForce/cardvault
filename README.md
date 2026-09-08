@@ -1,0 +1,5 @@
+# CardVault - Sports Card Collection & Grading Tracker
+
+CardVault is a web application designed for sports card collectors who want a simple, organized way to track their collection, grading submissions, and card values. The system allows users to catalog cards, record grading results from companies like PSA or BGS, and monitor changes in market value over time. By centralizing collection data, CardVault helps collectors understand the trye condition, value, and selling potential of their cards. 
+
+The purpose of CardVault is to enhance the enjoyment of the sports card hobby by providing a personal digital companion for managing collections. Users can prepare cards for sale, analyze grading trends, and keep detailed notes on each item they own. The value of the system comes from the collector's interest-offering a convenient, hobby-focused space that supports tracking, organizing, and making informed decisions about grading or selling cards. 
